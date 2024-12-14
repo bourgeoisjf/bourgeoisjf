@@ -8,7 +8,7 @@ Currently studying Data Analysis. Curious about everything related to technology
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://officeforest.org/wp/wp-content/uploads/2019/05/256px-Sqlite-square-icon.svg_.png" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://logo-marque.com/wp-content/uploads/2022/01/Microsoft-Power-BI-Logo-650x366.png" />&nbsp;&nbsp;
 </div> 
 
 ##
